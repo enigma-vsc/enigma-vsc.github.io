@@ -4,22 +4,21 @@
     padding: 0;
 }
 .sidebar{
-    background-color: red;
+    background-color: #673AB7;
     width: 20vw;
     font-family: 'Montserrat', sans-serif;
 }
-/* .sidebar nav{
-    padding: 20px;
+.sidebar nav{
     padding-top: 20px ;
     padding-bottom: 20 px;
-} */
+} 
 .sidebar nav li{
     font-size: 30px;
     list-style: none;
     padding: 33px;
 }
 .main{
-    background-color: yellow;
+    background-color: #462979b3;
     width: 80vw;
 }
 .container{
